@@ -1,2 +1,1 @@
-This is a simple calculator.
-This calculator is developed using HTML and CSS only.
+This is a simple calculator developed using HTML and CSS only.
